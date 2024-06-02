@@ -54,7 +54,7 @@ The API supports basic authentication and authorization, allowing only authorize
 ### endpoints to manage alert entity
 ![image](https://github.com/b410asakura/task3/assets/73512839/1ebf2e47-dcfa-4e3b-b9cd-847552cc06f3)
 
-### endpoints to manage equipment entity
+### endpoints to manage sensor entity
 ![image](https://github.com/b410asakura/task4/assets/73512839/a7c447af-7c27-4e3b-8b4a-f933daccea9f)
 
 ### endpoints to manage data entity
