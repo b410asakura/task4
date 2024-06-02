@@ -55,7 +55,7 @@ The API supports basic authentication and authorization, allowing only authorize
 ![image](https://github.com/b410asakura/task3/assets/73512839/1ebf2e47-dcfa-4e3b-b9cd-847552cc06f3)
 
 ### endpoints to manage equipment entity
-![image](https://github.com/b410asakura/task3/assets/73512839/c18f7fb5-0315-4223-a4fc-e1615805b234)
+![image](https://github.com/b410asakura/task4/assets/73512839/a7c447af-7c27-4e3b-8b4a-f933daccea9f)
 
 ### endpoints to manage data entity
 ![image](https://github.com/b410asakura/task3/assets/73512839/6a11fe34-dad4-48d7-8664-626f1ae28f00)
@@ -64,4 +64,4 @@ The API supports basic authentication and authorization, allowing only authorize
 
 ## Video Demonstration
 
-Video demonstration of the API in action can be found [here](https://drive.google.com/file/d/1UFfBEkdoXONptCqlmox1UMsHXSyNTzcm/view?usp=sharing)
+Video demonstration of the API in action can be found [here](https://drive.google.com/file/d/1Ze1z44D0LrWBjlgAJyzs-LKkbwVURyJJ/view?usp=sharing)
