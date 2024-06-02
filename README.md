@@ -1,12 +1,12 @@
-# TechTrack Backend API
+# EcoTrack Air Quality Monitoring API
 ## Project Overview
-TechTrack is a platform designed for monitoring and managing technical equipment such as industrial robots, manufacturing equipment, quality control systems, etc. The platform aims to solve the problem of managing data on the technical condition of equipment. This project implements a RESTful API to manage users and handle data related to equipment status, including monitoring temperature, speed, pressure, and alerting on abnormal situations.
+EcoTrack is a platform designed for monitoring and managing environmental data collected from various sensors and devices. This specific project focuses on managing data related to air quality. The RESTful API developed here enables the management of air quality sensors, including the ability to create, read, update, and delete sensor records.
 
 The API supports basic authentication and authorization, allowing only authorized users to access and manipulate the data. It is designed to handle simultaneous requests from multiple clients and ensure high data availability.
 
 ## Features
 - **User Management**: Create, read, update, and delete users with basic authentication and authorization.
-- **Equipment Management**: CRUD operations for equipment data.
+- **Sensor Management**: CRUD operations for sensor data.
 - **Data Management**: Store and retrieve equipment status indicators such as temperature, speed, and pressure.
 - **Alert Management**: Manage alerts related to equipment, including warnings about possible failures or abnormal situations.
 - **Concurrency Handling**: Optimistic locking for concurrent data updates.
@@ -30,7 +30,7 @@ The API supports basic authentication and authorization, allowing only authorize
 1. Clone the repository: `git clone <repository-url>`
 2. Build the project: `mvn clean package`
 3. Go to application.properties and do some change:
-4. change `spring.datasource.url=jdbc:postgresql://localhost:5432/task3` to your own database url
+4. change `spring.datasource.url=jdbc:postgresql://localhost:5432/task4` to your own database url
 5. change `spring.datasource.username=postgres` to your username
 6. change `.datasource.password=57206700` to your password
 7. Run the application
